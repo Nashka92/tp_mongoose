@@ -1,4 +1,4 @@
-const Movie = require("../movie");
+const Movie = require("../models/movie");
 
 // Création d'un Nouveau Film
 const addMovie = async (req, res) => {
